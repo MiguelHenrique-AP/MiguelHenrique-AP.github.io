@@ -1,0 +1,16 @@
+body{
+    border: 5px solid #333;
+    margin: 0;
+    height: 100vh;
+    box-sizing: border-box;
+    background: linear-gradient(to bottom,#6A5ACD,#808080);}
+h1{color: blue; text-align: center;}
+
+p{font-size: 16px; color: darkgray; margin: 20px;}
+
+ul{color: black; padding-left: 40px;}
+
+div{position: absolute;
+left: 40%;}
+
+img{border: 3px dashed blue;}
